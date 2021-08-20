@@ -3,11 +3,11 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Rolando A. Mejia](https://anandmainali.com.np)
+### Hi there 👋 I'm [Rolando A. Mejia]
 > Software Engineer 
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=rolandoaamejia" alt="rolandoaamejia" />
 
 <div>
  <p>
@@ -33,13 +33,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rolandoaamejia&repo=PackageTemplate&show_owner=true)](https://github.com/rolandoaamejia/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rolandoaamejia&repo=Foods-Ecommerce&show_owner=true)](https://github.com/rolandoaamejia/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/rolandoaamejia" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rolandomejiahn/?originalSubdomain=hn" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:rolandoaguilarmejia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rolandoaguilarmejia@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
