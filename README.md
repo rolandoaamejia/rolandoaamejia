@@ -39,7 +39,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rolandomejiahn/?originalSubdomain=hn" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rolandomejiahn/?originalSubdomain=hn" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-@rolandoaamejia-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:rolandoaguilarmejia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rolandoaguilarmejia@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
