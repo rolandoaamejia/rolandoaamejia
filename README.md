@@ -33,7 +33,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [![Rolando A. Mejia GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolandoaamejia&show_icons=true&count_private=true)](https://github.com/rolandoaamejia)
 
 ### Actually Learning
-⭐️ Master's degree intern in business management
+⭐️ Master's degree intern in Business Management
 ⭐️ DataScience
 ⭐️ UX Design
 
