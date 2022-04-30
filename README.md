@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Rolando A. Mejia]
-> Software Engineer 
+> Computer Science Engineer 
 
 
 <img src="https://komarev.com/ghpvc/?username=rolandoaamejia" alt="rolandoaamejia" />
